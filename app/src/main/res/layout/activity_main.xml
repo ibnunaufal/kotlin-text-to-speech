@@ -39,6 +39,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Ucapkan" />
+        <TextView
+            android:id="@+id/isSpeaking"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="mbak google lagi berbicara"/>
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
